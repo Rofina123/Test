@@ -15,11 +15,11 @@ i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "16.1.3", ngImpor
 
 class CardyLoginComponent {
     static { this.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "16.1.3", ngImport: i0, type: CardyLoginComponent, deps: [], target: i0.ɵɵFactoryTarget.Component }); }
-    static { this.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "14.0.0", version: "16.1.3", type: CardyLoginComponent, selector: "lib-cardy-login", ngImport: i0, template: "<h1>hello-cardyyyyyyy!!!!</h1>\n", styles: [""] }); }
+    static { this.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "14.0.0", version: "16.1.3", type: CardyLoginComponent, selector: "lib-cardy-login", ngImport: i0, template: "<h1>yessssssssss</h1>\n", styles: [""] }); }
 }
 i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "16.1.3", ngImport: i0, type: CardyLoginComponent, decorators: [{
             type: Component,
-            args: [{ selector: 'lib-cardy-login', template: "<h1>hello-cardyyyyyyy!!!!</h1>\n" }]
+            args: [{ selector: 'lib-cardy-login', template: "<h1>yessssssssss</h1>\n" }]
         }] });
 
 class DemoLibraryComponent {
